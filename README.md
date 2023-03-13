@@ -7,7 +7,7 @@ Objetivo:
 * realizar a exportação desses dados para arquivo CSV e importar para o DBeaver
 
 Período do coleta:
-* 07/2022
+* 11/2022
 
 Bases de Dados:
 * gerada pelo crawler
