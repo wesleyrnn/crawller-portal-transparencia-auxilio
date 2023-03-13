@@ -4,7 +4,7 @@
 
 Objetivo: 
 * coletar a base de dados do portal da transparência
-* realizar a exportação desses dados para arquivo CSV e importar para o DBeaver
+* realizar a exportação desses dados para arquivo CSV e importar para o PostgreSQL
 
 Período do coleta:
 * 11/2022
@@ -14,7 +14,7 @@ Bases de Dados:
 
 Considerações:
 * base será gerada crua
-* curar os dados antes de realizar o input no modelo
+* curar os dados antes de realizar o input em modelo
 
 Requisitos:
 * Jupyter Notebook
